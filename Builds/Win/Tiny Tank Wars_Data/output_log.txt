@@ -15,18 +15,24 @@ Platform assembly: D:\Dev\Unity\Tiny Tank Wars\Builds\Win\Tiny Tank Wars_Data\Ma
 Loading D:\Dev\Unity\Tiny Tank Wars\Builds\Win\Tiny Tank Wars_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: D:\Dev\Unity\Tiny Tank Wars\Builds\Win\Tiny Tank Wars_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading D:\Dev\Unity\Tiny Tank Wars\Builds\Win\Tiny Tank Wars_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.024 seconds
+- Completed reload, in  0.032 seconds
 Platform assembly: D:\Dev\Unity\Tiny Tank Wars\Builds\Win\Tiny Tank Wars_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: D:\Dev\Unity\Tiny Tank Wars\Builds\Win\Tiny Tank Wars_Data\Managed\System.dll (this message is harmless)
 <RI> Initializing input.
 <RI> Input initialized.
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initialized touch support.
-UnloadTime: 2.213400 ms
+UnloadTime: 1.827900 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.554000 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 307.
+Total: 0.625000 ms (FindLiveObjects: 0.040800 ms CreateObjectMapping: 0.049000 ms MarkObjects: 0.511600 ms  DeleteObjects: 0.022500 ms)
+
 Setting up 6 worker threads for Enlighten.
-  Thread -> id: 63ec -> priority: 1 
-  Thread -> id: 2ce8 -> priority: 1 
-  Thread -> id: eac -> priority: 1 
-  Thread -> id: 5510 -> priority: 1 
-  Thread -> id: 62ec -> priority: 1 
-  Thread -> id: 58e4 -> priority: 1 
+  Thread -> id: 65ac -> priority: 1 
+  Thread -> id: 2a98 -> priority: 1 
+  Thread -> id: 640c -> priority: 1 
+  Thread -> id: 420c -> priority: 1 
+  Thread -> id: 461c -> priority: 1 
+  Thread -> id: 4d20 -> priority: 1 
